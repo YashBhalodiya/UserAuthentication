@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550190544237",
+    "project_id": "practice-fac20",
+    "storage_bucket": "practice-fac20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550190544237:android:c74e3cfa56f3997f88d664",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi2TGL93xBrA0n0OdYs3HMvsKQ1A2pe54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
